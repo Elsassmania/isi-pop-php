@@ -1,0 +1,3 @@
+isipopph_pmain_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: ISIPOPPHPmainBundle:Default:index }
